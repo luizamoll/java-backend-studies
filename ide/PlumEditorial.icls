@@ -40,14 +40,14 @@
 
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="E47B62" />
+        <option name="FOREGROUND" value="B9A7FF" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
 
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="E47B62" />
+        <option name="FOREGROUND" value="B9A7FF" />
       </value>
     </option>
 
@@ -66,7 +66,7 @@
 
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="E39A70" />
+        <option name="FOREGROUND" value="E6C05A" />
       </value>
     </option>
 
