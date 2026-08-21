@@ -30,9 +30,20 @@ A estrutura será criada conforme houver código real para cada assunto, evitand
 
 Cada exercício ou projeto deve conter contexto suficiente para identificar o que está sendo praticado e, quando necessário, instruções para execução.
 
+## Projeto aplicado
+
+Além deste repositório de estudos, o [ImobControl](https://github.com/luizamoll/imobcontrol-finance-dashboard) concentra a aplicação prática mais completa do portfólio e já iniciou sua evolução para um back-end próprio em Java e Spring Boot.
+
+A separação é intencional: aqui ficam os estudos e exercícios; no ImobControl, os conceitos são aplicados gradualmente em um sistema com regras de negócio reais de software e dados fictícios de demonstração.
+
 ## Roadmap
 
 O acompanhamento dos próximos conteúdos está em [`ROADMAP.md`](ROADMAP.md).
+
+## Portfólio
+
+- [Perfil no GitHub](https://github.com/luizamoll)
+- [Currículo online](https://luizamoll.github.io/Curriculo/)
 
 ---
 
