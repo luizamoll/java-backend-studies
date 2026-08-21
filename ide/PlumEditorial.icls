@@ -60,7 +60,7 @@
 
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="D6A1C4" />
+        <option name="FOREGROUND" value="A7D8FF" />
       </value>
     </option>
 
@@ -72,7 +72,7 @@
 
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="A984D2" />
+        <option name="FOREGROUND" value="A7D8FF" />
       </value>
     </option>
 
@@ -105,7 +105,7 @@
 
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="E6DEE5" />
+        <option name="FOREGROUND" value="D6E8FF" />
       </value>
     </option>
 
@@ -117,7 +117,7 @@
 
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="C99AC7" />
+        <option name="FOREGROUND" value="9CCFFF" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -155,6 +155,37 @@
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="C9BDC9" />
+      </value>
+    </option>
+
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="A7D8FF" />
+        <option name="EFFECT_COLOR" value="E6C05A" />
+        <option name="ERROR_STRIPE_COLOR" value="E6C05A" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="A7D8FF" />
+        <option name="EFFECT_COLOR" value="E6C05A" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+
+    <option name="JAVADOC_ERRORS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="A7D8FF" />
+        <option name="EFFECT_COLOR" value="E6C05A" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+
+    <option name="JAVADOC_WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="A7D8FF" />
       </value>
     </option>
   </attributes>
